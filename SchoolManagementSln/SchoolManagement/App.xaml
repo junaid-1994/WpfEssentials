@@ -1,9 +1,8 @@
-﻿<Application x:Class="SchoolManagement.App"
-             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:SchoolManagement"
-             StartupUri="MainWindow.xaml">
+﻿<bootStrpper:BootstrapperApp x:Class="SchoolManagement.App"
+                             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                             xmlns:bootStrpper="clr-namespace:WpfCore.Services;assembly=WpfCore">
     <Application.Resources>
          
     </Application.Resources>
-</Application>
+</bootStrpper:BootstrapperApp>
