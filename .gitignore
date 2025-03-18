@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/VSWorkspaceState.json
+/.vs/WpfEssentials/FileContentIndex/408fdd99-0f2c-40d7-824b-6c277cb54356.vsidx
+/.vs/WpfEssentials/v17/.wsuo
+/.vs/WpfEssentials/v17
+/.vs
